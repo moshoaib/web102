@@ -25,8 +25,70 @@ h2{
     color: orange;
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 section{
     height: 500px;
+    padding-bottom: 20%;
+}
+
+.anchor-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, tomato, lightsalmon);
+        padding: 5px 10px;
+        color: white;
+}
+.work-experience{
+    background-image: url(images/work-experience.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.gig{
+    box-shadow: 10px 10px 40px gray;
+    height: 100%;
+    border-radius: 1%;
+    background-color: white;
+
+}
+.experience-padding{
+    padding-top: 150px;
+}
+.colorfulgig-title{
+    color: orange;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+    
+    
+}
+.gig p{
+    color: darkgrey;
+    text-align: justify;
+    
+}
+#gigsection-title{
+    padding-left: 100px;
+    text-transform: uppercase;
+}
+.first-gig{
+    border-left: 7px solid;
+    border-image: linear-gradient(150deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+.second-gig{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+.gig-section{
+    background-image: url(images/gig-secction.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+    color: gray;
 }
