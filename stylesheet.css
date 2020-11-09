@@ -7,6 +7,9 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.top-banner p{
+    color: dimgray;
+}
 h1{
     font-weight: 900;
     font-size: 50px;
@@ -21,6 +24,9 @@ h2{
     padding-left: 2%;
     margin-bottom: 10%;
     
+}
+.workexperiencetop{
+    padding-top: 10%;
 }
 #heading-color{
     color: orange;
@@ -44,6 +50,12 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.work-experience p{
+    color: dimgray;
+}
+.work-experience h3{
+    color: orange;
+}
 
 .gig{
     box-shadow: 10px 10px 40px gray;
@@ -60,8 +72,6 @@ section{
     text-transform: uppercase;
     font-weight: 700;
     
-    
-    
 }
 .gig p{
     color: darkgrey;
@@ -69,7 +79,7 @@ section{
     
 }
 #gigsection-title{
-    padding-left: 100px;
+    text-align: center;
     text-transform: uppercase;
 }
 .first-gig{
@@ -91,5 +101,5 @@ section{
 }
 footer{
     text-align: center;
-    color: gray;
+    color: dimgray;
 }
