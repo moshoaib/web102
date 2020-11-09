@@ -30,10 +30,7 @@ h2{
 }
 section{
     height: 500px;
-<<<<<<< HEAD
     padding-bottom: 20%;
-=======
->>>>>>> f0e5c5ab076a4a8e1698be58d67798bf548f55e7
 }
 
 .anchor-button{
@@ -42,7 +39,6 @@ section{
         padding: 5px 10px;
         color: white;
 }
-<<<<<<< HEAD
 .work-experience{
     background-image: url(images/work-experience.png);
     background-repeat: no-repeat;
@@ -97,5 +93,3 @@ footer{
     text-align: center;
     color: gray;
 }
-=======
->>>>>>> f0e5c5ab076a4a8e1698be58d67798bf548f55e7
